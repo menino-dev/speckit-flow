@@ -1,0 +1,21 @@
+{
+  "name": "speckit-flow",
+  "displayName": "SpecKit Flow",
+  "version": "1.2.0",
+  "description": "Spec-Driven Development orchestrator with built-in architectural deepening and Modern Web Guidance integration (constitution -> specify -> clarify -> architecture check -> plan -> tasks -> analyze -> implement).",
+  "author": {
+    "name": "menino-dev",
+    "url": "https://github.com/menino-dev"
+  },
+  "homepage": "https://github.com/menino-dev/speckit-flow",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/menino-dev/speckit-flow"
+  },
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Criar novo projeto: API REST de gerenciamento de tarefas com autenticação JWT e testes",
+    "Adicionar feature: modal de confirmação acessível com animações modernas e suporte a teclado",
+    "Auditar arquitetura e modernizar padrões web legados do projeto"
+  ]
+}
